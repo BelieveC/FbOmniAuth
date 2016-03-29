@@ -1,4 +1,4 @@
-[FbOmniAuth][https://github.com/BelieveC/FbOmniAuth]
+[FbOmniAuth](https://github.com/BelieveC/FbOmniAuth)
 =======================
 
 Above Project is about integrating OmniAuth for user verification to your site.
