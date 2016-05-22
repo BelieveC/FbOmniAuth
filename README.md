@@ -8,4 +8,4 @@ with Product Key and Secret  Key after registration which will be utilized in th
 ------------------------------------------------------------
 I hope you would love this Small OmniAuth Integration and Don't forget to share with your friends if you feel it is worth sharing.....Cheers!
 --------------------------------------------------------------
-For more Interesting stuff, Follow me @[BelieveC](https://github.com/BelieveC)
+For more Interesting stuff, Follow me [@BelieveC](https://github.com/BelieveC)
